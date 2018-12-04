@@ -9,6 +9,6 @@
 1. The Hero Editor
 2. Displaying a List
 3. Master/Detail Components
-## Próxima etapa
+### Próxima etapa
 4. Services
 --> https://angular.io/tutorial/toh-pt4
